@@ -7,7 +7,9 @@ This is E-Commerce website, this project is developed for commercial purpose.
 **Stack**
 
 Frontend : React + TypeScript
+
 Backend : Java 21 Spring Boot
+
 Database : PostgreSQL (Core Data), MongoDB (Flexible Data)
 
 **Author**
